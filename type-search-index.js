@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"BackEnd","l":"DBConnection"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"BackEnd","l":"AnalyticsController"},{"p":"BackEnd","l":"CashierController"},{"p":"BackEnd","l":"DBConnection"},{"p":"BackEnd","l":"InventoryController"},{"p":"<Unnamed>","l":"Main"},{"p":"BackEnd","l":"ManageEmployeeController"}];updateSearchResults();
